@@ -5,6 +5,7 @@ Feel free to fork this repo, add cool links you find and submit a pull request!
 
 ##Inspiration & Tutorials
 - [Codrops](http://tympanus.net/codrops/)
+- [Team Treehouse](http://blog.teamtreehouse.com/)
 
 
 ##jQuery
@@ -14,6 +15,7 @@ Feel free to fork this repo, add cool links you find and submit a pull request!
 
 ##Newsletters
 - [Sidebar](http://sidebar.io/)
+
 
 ##Examples
 - [Angular SVG Round Process Bar](https://github.com/crisbeto/angular-svg-round-progressbar)
